@@ -1,3 +1,4 @@
+
 ![CI GitHubAction](https://github.com/itlazykin/job4j_pooh/actions/workflows/maven.yml/badge.svg)
 
 Брокер сообщений - это отдельное приложение, которое пересылает сообщения между другими приложениями.
